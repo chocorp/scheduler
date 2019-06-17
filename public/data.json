@@ -1,0 +1,30 @@
+{
+  "date": {
+    "20180620": {
+      "gs": [
+        {
+          "id": 0,
+          "text": "test1"
+        }
+      ],
+      "devtobi": [
+        {
+          "id": 0,
+          "text": "test1"
+        }
+      ],
+      "brand": [
+        {
+          "id": 0,
+          "text": "test1"
+        }
+      ],
+      "notification": [
+        {
+          "id": 0,
+          "text": "test1"
+        }
+      ]
+    }
+  }
+}
